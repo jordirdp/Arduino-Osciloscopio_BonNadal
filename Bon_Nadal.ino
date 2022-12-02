@@ -1,7 +1,8 @@
 /* Project: Arduino dibuja mensaje de Navidad sobre Osciloscopio */
 /* Author: Jordi Rodriguez & Llorenç Marin */
 
-// Uso de potenciómetro para afinar la señalint POT = A0;
+// Uso de potenciómetro para afinar la señal
+int POT = A0;
 int pot_delay = 1000;
 
 // Conexión de osciloscopio a pines 5 y 6 de Arduino (usan el Timer0)
