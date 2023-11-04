@@ -5,7 +5,8 @@ Autor: Jordi Rodriguez & Llorenç Marin
 Practica de representacion de señales de Arduino en Osciloscopio  
 Texto Bon_Nadal
 
-
+![Imagen conexiones](Osciloscopio.jpg)  
+  
 *** Material utilizado ***
 
 - Arduino UNO R.3
