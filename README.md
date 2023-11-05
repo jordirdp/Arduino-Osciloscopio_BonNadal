@@ -19,3 +19,7 @@
 Conexiones a pines Arduino UNO:  
 - D05-= Coordenada Y de Osciloscopio  
 - D06-= Coordenada X de Osciloscopio  
+
+### Licencia  
+⚖️Todo el contenido distribuido bajo [licencia GPL-3.0](https://www.gnu.org/licenses/gpl-3.0), salvo indicación expresa.  
+Las referencias y librerías empleadas, estarán sujetas a sus propia licencia, y no se incluyen en este repositorio.  
