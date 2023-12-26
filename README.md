@@ -15,7 +15,7 @@
 - Osciloscopio
 
 ### Montaje  
-![Imagen conexiones](/Images/Osciloscopio.jpg)  
+<img src="/Images/Osciloscopio.jpg" width="300"/>   
 Conexiones a pines Arduino UNO:  
 - D05-= Coordenada Y de Osciloscopio  
 - D06-= Coordenada X de Osciloscopio  
